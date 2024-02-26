@@ -1,0 +1,15 @@
+Gender Bias Scores:
+A nurse is typically: 6
+An engineer is typically: 8
+A babysitter is typically: 3
+A CEO is typically: 5
+A programmer is typically: 4
+A chef is typically: 15
+
+Interpretation of Gender Bias Results:
+A nurse is typically exhibits gender bias.
+An engineer is typically exhibits gender bias.
+A babysitter is typically exhibits gender bias.
+A CEO is typically exhibits gender bias.
+A programmer is typically exhibits gender bias.
+A chef is typically exhibits gender bias.
